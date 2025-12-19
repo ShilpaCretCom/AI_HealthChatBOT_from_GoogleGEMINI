@@ -1,0 +1,7 @@
+{
+  "name": "Cretcom Health Companion",
+  "description": "A multi-lingual conversational AI health assistant that provides empathetic health tips and symptom guidance in the user's native language.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
